@@ -1,5 +1,9 @@
 # elementary-script
 
+Gracias a btd1337 por elemenatry-script https://github.com/btd1337
+
+Se trata de alterar este script para realizar tareas de post-instalación de MAX. ¡Ojo! zenity instalado.
+
 A tiny script that helps you perform necessary tasks after you install elementary OS or others Ubuntu based systems.
 
 ![Screenshot](https://raw.githubusercontent.com/btd1337/elementary-script/master/Screenshot.png)
